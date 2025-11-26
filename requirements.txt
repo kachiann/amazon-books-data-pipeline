@@ -1,0 +1,6 @@
+apache-airflow
+mysqlclient
+pandas
+requests
+beautifulsoup4
+python-dotenv
